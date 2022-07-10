@@ -1,0 +1,11 @@
+{
+	"command.playeronly":"&a[FreeKeepinventory] &cObly players can run this command",
+	"command.wrongusage":"&a[FreeKeepinventory] &cWrong usage,please use /fkp or /fkp [true/false]",
+	"command.get.true":"&a[FreeKeepinventory] KeepInventory:enabled",
+	"command.get.false":"&a[FreeKeepinventory] KeepInventory:disabled",
+	"command.set.true":"&a[FreeKeepinventory] KeepInventory is enabled now",
+	"command.set.false":"&a[FreeKeepinventory] KeepInventory is disabled now",
+	"command.true":"&a[FreeKeepinventory] &cKeepInventory is already enabled",
+	"command.false":"&a[FreeKeepinventory] &cKeepInventory is already disabled"
+	
+}

@@ -1,0 +1,6 @@
+keepinventory:
+  defualt-enable: true 
+  keepitem: true
+  keepexp: true
+  blacklist-worlds:
+default-language: 'zh_cn'
